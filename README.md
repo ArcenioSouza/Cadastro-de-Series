@@ -2,6 +2,8 @@
 
 Esse aplicativo do tipo console feito com Dotnet na linguagem C# é um sistema de gerenciamento de series, com ele você pode cadastrar, atualizar, pesquisar e excluir as series que desejar.
 
+![imagem do app](./src/Utils/img/imagemAPP.JPG)
+
 # Objetivo
 
 - [x] Praticar conceitos de POO;
